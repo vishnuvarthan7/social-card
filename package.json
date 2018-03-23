@@ -16,5 +16,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b master -d build"
   },
-  "homepage": "https://github.com/vishnuvarthan7/social-card-test"
+  "homepage": "https://github.com/vishnuvarthan7/social-card"
 }

@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import test from './test.json';
-import './App.css';
+import './SocialCard.css';
 
-class App extends Component {
+class SocialCard extends Component {
   render() {
     return (
       test.map((item, i) => {
@@ -30,4 +30,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default SocialCard;
